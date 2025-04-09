@@ -4,7 +4,7 @@ Welcome to my User Page! I'm a passionate programmer and student, excited about 
 
 ## Pictures
 
-(/self_image.jpg)
+![min's image](self_image.jpg)
 
 ## Quoting Text
 
